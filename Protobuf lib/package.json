@@ -1,0 +1,15 @@
+{
+  "name": "@alexbrochu/proto-lib",
+  "version": "1.0.1",
+  "description": "Proto lib test",
+  "license": "MIT",
+  "repository": "alexbrochu/proto-lib",
+  "keywords": [
+    "proto",
+    "npm",
+    "package",
+    "alexbrochu"
+  ],
+  "devDependencies": {},
+  "scripts": {}
+}
