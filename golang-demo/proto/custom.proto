@@ -1,9 +1,0 @@
-syntax = "proto3";
-import "github.com/alexbrochu/awesomepackage/corpus";
-import "google/protobuf/timestamp.proto";
-
-message Info {
-  string id = 1;
-  string message = 2;
-  google.protobuf.Timestamp pod = 3;
-}
