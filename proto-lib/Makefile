@@ -1,2 +1,2 @@
 protoc: 
-	protoc -I. -Igo/constantpb --go_out=go/constantpb  lib/constant.proto
+	protoc -I. -Ivendors --go_out=vendors  lib/constant.proto
