@@ -50,3 +50,5 @@ npm login
 npm version [major-minor]
 npm publish --access public # this will publish your package so it's available to everyone
 ```
+
+test
